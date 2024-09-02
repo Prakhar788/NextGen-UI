@@ -7,6 +7,15 @@
 Each template is fully responsive, customizable, and built with best practices in mind. Simply choose the template that suits your needs, customize the content, and deploy your site with ease.
 
 ---
+# Templates
+
+| Name               | Screenshot                        | Live URL                                    | Repo                                                      | Tech Stack                               |
+|--------------------|-----------------------------------|---------------------------------------------|-----------------------------------------------------------|------------------------------------------|
+| SaaS-Light-Template | ![image](https://github.com/user-attachments/assets/3cacaf26-1bb7-43f2-886e-741c0121be7d) | [SaaS-template-light-theme](https://saas-template-light-theme.vercel.app/) | [GitHub](https://github.com/Prakhar788/SaaS-Template-Light-Theme) | Next.js, TailwindCSS, Framer Motion     |
+| SaaS-Dark-Template  | ![image](https://github.com/user-attachments/assets/47bce0ca-715f-4a0e-beff-92538fc051dc) | [SaaS-template-dark-theme](https://saa-s-template-dark-theme.vercel.app) | [GitHub](https://github.com/Prakhar788/SaaS-Template-Dark-Theme) | Next.js, TailwindCSS, Framer Motion     |
+| AI Template         |![image](https://github.com/user-attachments/assets/0e08eda4-ceac-4459-afac-80cab299bb21)| [AI-template](https://ai-startup-template.vercel.app/) | [GitHub](https://github.com/Prakhar788/AI-Startup-Template) | Next.js, TailwindCSS, Framer Motion     |
+
+
 
 ## Open Source & Community Contributions
 
@@ -20,22 +29,18 @@ Each template is fully responsive, customizable, and built with best practices i
 
 ---
 
-## How to Use
-
-1. Explore the available templates in the `/templates` directory.
-2. Select the template that fits your needs.
-3. Download and customize it to suit your project.
-4. Deploy your customized template to your hosting platform.
-
----
-
 ## How to Contribute
 
 Interested in contributing? Here's how you can get started:
 
 1. Fork the repository.
-2. Create a new branch for your changes (`git checkout -b feature-new-template`).
-3. Add your landing page template in a new folder under `/templates`.
+2. Create a new branch for your changes (e.g., git checkout -b add-template-entry).
+3. Add your template details to the table in the README file using the following format:
+
+| Name         | Screenshot                        | Live URL                      | Repo                      | Tech Stack                                   |
+|-----------------|-----------------------------------|--------------------------------|---------------------------|----------------------------------------------|
+| Template Name    | ![screenshot](link_to_your_image) | [yourwebsite.com](https://yourwebsite.com) | [GitHub](https://github.com/yourusername) | Your Tech Stack (e.g., React, Tailwind CSS, Next.js) |
+
 4. Submit a pull request with a description of your changes.
 
 We'll review your submission and merge it into the main project, making it available for the entire community!
